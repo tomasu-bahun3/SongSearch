@@ -1,0 +1,54 @@
+ARTIST="Mildred Hill and Patty Hill"
+TITLE="Happy Birthday To You"
+LYRICS="Happy birthday to you
+Happy birthday to you
+Happy birthday dear _____
+Happy birthday to you
+"
+ARTIST="unknown"
+TITLE="Pop Goes The Weasel"
+LYRICS="All around the mulberry bush
+The monkey chased the weasel.
+The monkey thought 'twas all in good fun
+Pop! goes the weasel
+
+A penny for a spool of thread,
+A penny for a needle—
+That's the way the money goes,
+Pop! goes the weasel
+
+Jimmy's got the whooping cough
+And Timmy's got the measles.
+That's the way the story goes,
+Pop! goes the weasel 
+"
+ARTIST="unknown"
+TITLE="Rockabye Baby"
+LYRICS="Rockabye baby in the treetops
+When the wind blows your cradle will rock
+When the bow breaks your cradle will fall
+Down will come baby cradle and all
+"
+ARTIST="Professor B"
+TITLE="Small Steps"
+LYRICS="Write your programs in small steps
+small steps, small steps
+Write your programs in small steps
+Test and debug every step of the way.
+"
+ARTIST="Brian Dill"
+TITLE="Ode to Bobby B"
+LYRICS="Professor Bobby B., can't you see,
+sometimes your data structures mystify me,
+the biggest algorithm pro since Donald Knuth,
+here he is, he's Robert Boothe!
+"
+ARTIST="Professor B"
+TITLE="Debugger Love"
+LYRICS="I didn't used to like her
+I stuck with what I knew
+She was waiting there to help me,
+but I always thought print would do
+Debugger love .........
+Now I'm so in love with you
+"
